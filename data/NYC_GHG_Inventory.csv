@@ -1,0 +1,41 @@
+None,,,,CY 2020,CY 2020,CY 2020,% change from CY 2020,% change from CY 2020,% change from CY 2020
+None,,,,Consumed,tCO2e,Source MMbtu,Consumed,tCO2e,Source MMbtu
+"(Sectors, Sector)","(Category, Label)","(Source, Label)","(Source, Units)",,,,,,
+Stationary Energy,Commercial and Institutional,#2 fuel oil,gallon,54975567.11,568777.2173,7662494.544,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,#4 fuel oil,gallon,6613124.399,72719.04012,975171.3239,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,#6 fuel oil,gallon,0.0,0.0,0.0,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,Biofuel,gallon,3652485.184,23.99682766,472193.2845,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,Electricity,kWh,20264309990.0,6489231.882999999,69141825.69,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,Natural gas,SCF,110565000000.0,6025296.418,119112053.1,0.0,0.0,0.0
+Stationary Energy,Commercial and Institutional,Steam,kg,3936440178.0,329243.5268,8956026.312,0.0,0.0,0.0
+Stationary Energy,Fugitive,Fugitive CH4,GJ,1038543.86,486842.3118,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,#2 fuel oil,gallon,12674152.39,131126.7806,1766523.36,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,#4 fuel oil,gallon,1424821.369,15667.57799,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,#6 fuel oil,gallon,0.0,0.0,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,Biofuel,gallon,648394.0832,4.259949127,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,Electricity,kWh,7358075557.0,2356273.5930000003,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,Natural gas,SCF,25680997379.0,1399494.6840000001,0.0,0.0,0.0,0.0
+Stationary Energy,Manufacturing and Construction,Steam,kg,1180932055.0,98773.05817,0.0,0.0,0.0,0.0
+Stationary Energy,Residential,#2 fuel oil,gallon,97015873.57,1003726.228,13522072.46,0.0,0.0,0.0
+Stationary Energy,Residential,#4 fuel oil,gallon,37052732.59,407438.1466,5463795.948,0.0,0.0,0.0
+Stationary Energy,Residential,#6 fuel oil,gallon,0.0,0.0,0.0,0.0,0.0,0.0
+Stationary Energy,Residential,Biofuel,gallon,14509638.81,95.32832697,1875806.105,0.0,0.0,0.0
+Stationary Energy,Residential,Electricity,kWh,14577247614.0,4668066.172,49737568.86,0.0,0.0,0.0
+Stationary Energy,Residential,Natural gas,SCF,179289000000.0,9770423.828,193148214.0,0.0,0.0,0.0
+Stationary Energy,Residential,Steam,kg,2405299009.0,201179.0077,5472437.085,0.0,0.0,0.0
+Transportation,Aviation,Jet fuel,gallon,190426.9,1597.586478,23079.74028,0.0,0.0,0.0
+Transportation,Marine Navigation,Biofuel,gallon,300.1,0.001971657,38.796928,0.0,0.0,0.0
+Transportation,Marine Navigation,Gasoline,liters,0.0,0.0,0.0,0.0,0.0,0.0
+Transportation,Marine Navigation,Marine diesel,gallon,5164933.9,53463.160489999995,719888.4870000001,0.0,0.0,0.0
+Transportation,On-Road,Buses , VMT ,195100450.0,379450.4906,5394840.307999999,0.0,0.0,0.0
+Transportation,On-Road,Heavy duty trucks, VMT ,539318720.8,1224872.0,17021393.0,0.0,0.0,0.0
+Transportation,On-Road,Medium duty trucks , VMT ,373618549.9,296682.0,4362031.0,0.0,0.0,0.0
+Transportation,On-Road,Passenger cars,VMT,15683375517.0,9689447.0,146846829.9,0.0,0.0,0.0
+Transportation,On-Road,SWCV, VMT ,40651681.0,68528.0,982613.0,0.0,0.0,0.0
+Transportation,Railways,Diesel,gallon,1291342.37,13344.24134,179987.2995,0.0,0.0,0.0
+Transportation,Railways,Electricity,kWh,1851196247.0,592807.8336,6316281.592999999,0.0,0.0,0.0
+Waste,Biological treatment,CH4 and N2O from composting,MT,44652.295999999995,8550.914684000001,0.0,0.0,0.0,0.0
+Waste,Landfills,CH4,MT,6423022.0,1960325.0,0.0,0.0,0.0,0.0
+Waste,Wastewater treatment,CH4,MT,2645.062226,74061.74232,0.0,0.0,0.0,0.0
+Waste,Wastewater treatment,N2O,MT,213.2144518,56501.82973,0.0,0.0,0.0,0.0
+TOTALS,TOTALS,TOTALS,,384183285816.908,48444034.859397404,659153165.197108,0.0,0.0,0.0
