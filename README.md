@@ -17,7 +17,7 @@ In order to make the mundane topic more visually engaging, I have hand drawn all
     - Data can be found in the `data` folder under file name `NYC_GHG_Inventory`.
 - **Heatpump usage by state** - [U.S. Energy Information Administration 2022 Residential Energy Consumption Survey (RECS)](https://www.eia.gov/consumption/residential/)
     - RECS data from EIA is the only national-level survey data that shows the rate of heat pump adoption in each state. However, data was withheld from 16 states "because either the relative standard error (RSE) was greater than 50% or fewer than 10 households were in the reporting sample." Therefore, these states were excluded from the analysis.
-    - More comprehensive data is needed to accurately assess each state's rate in heat pump adoption.
+    - More comprehensive data is needed to accurately assess each state's progress in heat pump adoption.
     - Data can be found in the `data` folder under file name `states_heat_pump.csv`
 
 ![Map of the U.S. showing each state's heat pump adoption rate.](/docs/hp_map.png)
