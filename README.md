@@ -1,4 +1,4 @@
-# Heat Pumps Adoption in New York State
+# Heat Pump Adoption in New York State
 Read the full story here: [From Icy to Spicy: Heat Pumps Are The Hottest Thing in Sustainable Energy, But New York Lags Behind The Trend.](https://junekim6.github.io/heat-pump-nyc/)
 
 ## Overview
