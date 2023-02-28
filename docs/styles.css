@@ -1,8 +1,36 @@
 body {
     margin: auto;
-    padding: 30px 10px;
+    /* padding: 30px 10px; */
     font-family: 'Open Sans', sans-serif;
 }
+
+nav {
+    background-color: #333;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 50px;
+    padding: 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a.nav {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+  }  
 
 .serif {
     font-family: 'Lora', serif;
@@ -23,18 +51,20 @@ body {
     color: black;
 }
 
-.header {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
 .story-body,
 .header,
 .chart-section,
 .footer {
     margin: auto;
     max-width: 680px;
+    padding: 10px 10px;
 }
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
 
 .footer {
     padding-top: 20px;
